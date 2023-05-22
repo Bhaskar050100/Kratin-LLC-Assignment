@@ -15,6 +15,6 @@ Project Summary:*** *The main purpose of **OLD AGE PEOPLE'S Health Care** projec
 
 *Technologies used: The project involved developing a web application for a healthcare system. To build the front-end of the application, used HTML, CSS, Javascript, and Bootstrap, which allowed me to create a responsive and user-friendly interface. HTML: HTML was used to structure the content of the application, while CSS was used to style the interface and make it visually appealing. Javascript: Javascript was used to add interactivity to the application, such as pop-up, form validation, navigating from one page to another page with certain conditions. Bootstrap and CSS: Bootstrap and CSS framework, provides pre-built styles and components that helped to create a consistent look and feel across the application. Also, used Bootstrap’s grid system and flexbox to ensure that the application was responsive and could adapt to different devices.*
 
-***Screen_Shots_Google_Drive_Link:*** https://drive.google.com/drive/folders/19-zE_mZVgnZKhXQb-dCuLf8Rss2bu_ia
+***Screen_Shots_Google_Drive_Link:*** https://drive.google.com/drive/folders/19-zE_mZVgnZKhXQb-dCuLf8Rss2bu_ia?usp=share_link
 
 ***Web_Application_Link:*** https://github.com/Bhaskar050100/Kratin-LLC-Assignment
